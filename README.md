@@ -25,4 +25,4 @@
 
 随插件附带的目录及文件也应放置在/plugins文件夹中
 
-json来源于[https://github.com/MinatoAquaCrews/nonebot_plugin_what2eat]([https://github.com/MinatoAquaCrews/nonebot_plugin_what2eat])，在此感谢。
+json来源于[https://github.com/MinatoAquaCrews/nonebot_plugin_what2eat](https://github.com/MinatoAquaCrews/nonebot_plugin_what2eat)，在此感谢。
